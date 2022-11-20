@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535217593599",
+    "project_id": "polls-b3204",
+    "storage_bucket": "polls-b3204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535217593599:android:251dab9d757d9cc03780ca",
+        "android_client_info": {
+          "package_name": "com.example.my_polls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535217593599-q5j8tvdtf8shtfojn7u2vjftparvnp7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFtYATMLUp-T0lYEIDEbNPA9YMs8J5ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535217593599-q5j8tvdtf8shtfojn7u2vjftparvnp7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
